@@ -1,3 +1,5 @@
-# Multi-cycle CPU
+# Cache implemented CPU
 
-CPU microarchitecture executing full tsc ISA.
+CPU microarchitecture with cache
+- Capacity: 16 words, in 4 lines
+- write back, write allocate
