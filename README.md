@@ -1,7 +1,10 @@
 # Computer-Architecture-lab
 
 This repo contains projects I worked on, ragarding computer architecture subject. Specific tasks are below.
+
 All codes are written by myself from scratch, only given CPU module port specifications.
+
+
 
 
 <List>
