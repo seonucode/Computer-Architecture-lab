@@ -1,6 +1,6 @@
 # Computer-Architecture-lab
 
-This repo contains selected projects I worked on, in computer architecture subject. Specific tasks are below.
+This repo contains projects I worked on, ragarding computer architecture subject. Specific tasks are below.
 
 
 <List>
